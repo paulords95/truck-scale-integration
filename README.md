@@ -1,0 +1,1 @@
+Integração de balança rodovíaria fazendo requisição do peso para um conversor serial-tcp/ip
